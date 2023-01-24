@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-----
+
+<!-- Github top languages -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaKaldi&show_icons=true&locale=en&layout=compact&bg_color=30,746AB0,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=445)](https://github.com/AnastasiaKaldi/)
+
+-----
