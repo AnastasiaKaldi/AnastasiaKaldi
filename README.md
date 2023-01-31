@@ -67,5 +67,22 @@ Here are some ideas to get you started:
 <!-- Github top languages -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaKaldi&show_icons=true&locale=en&layout=compact&bg_color=30,746AB0,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=445)](https://github.com/AnastasiaKaldi/)
+	
+<h4 align="left"><b> Im sorry in advance for my sense of houmor </b>
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+	
+## <b> Let's have a chat! ☕️ 
+<br>
+<div align='left'>
+	
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/anastasia-kaldi-3685691b8/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Anastasiakaldi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
 
 -----
