@@ -1,6 +1,15 @@
 ### Hi there 👋  Im Anastasia Kaldi!
 
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= 👋 Hi I'm Anastasia but People call me Natasha!;I am a Self-taught+Developer,;A Music+Student,;And very+passionate+about+music+and+comp sci.;" alt="Typing SVG" /></a>
+
+<br>
 Im a self-taught developer and musician.
+
+🖥️ Currently working on a bakery management system.
+📀 Hobbies: music production, composition, vocals and keyboard
+🪴 Currently open for internships and placements in data science or web development
+
 
 
 
