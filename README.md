@@ -9,10 +9,11 @@
 <picture> <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width = 250px></picture>
 
 <br>
-	
-Im a self-taught developer and musician.
+<h2 align="left"><img src="https://media.giphy.com/media/26DN2hUeMwRd2P1o4/giphy.gif" width= "35"><b>About me</b></h2>
 
-🖥️ Currently working on a bakery management system.
+🖥️ Im a self-taught developer and musician. Currently working on a bakery management system.
+
+🌸Pronouns: She/Her
 	
 📀 Hobbies: music production, composition, vocals and keyboard
 
@@ -20,58 +21,46 @@ Im a self-taught developer and musician.
 🪴 Currently open for internships and placements in data science or web development
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+	
+## <img src="https://media.giphy.com/media/CWcVFnvebhm92nFjMP/giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+- **Languages**:
+    
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white")
+
+- **Frameworks**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Natasha's Community Chess Tournament
+- **Softwares and Tools**:
 
-**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a white (hollow) piece.
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>
 
-|   | A | B | C | D | E | F | G | H |
-| - | - | - | - | - | - | - | - | - |
-| 8 | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/N.png) |
-| 7 | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) |
-| 6 | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/b.png) |
-| 5 | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/p.png) |
-| 4 | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/R.png) |
-| 3 | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) |
-| 2 | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) |
-| 1 | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/anastasiakaldi/anastasiakaldi/master/chess_images/blank.png) |
+- **Extras**:
 
-#### **WHITE (hollow):** It's your move... to choose _where_ to move...
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+	
 
-| FROM | TO - _just click one of the links_ :) |
-| ---- | -- |
-| **A4** | [A5](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ca4a5%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **A6** | [B5](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ca6b5%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [B7](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ca6b7%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C4](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ca6c4%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C8](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ca6c8%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D3](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ca6d3%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E2](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ca6e2%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [F1](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ca6f1%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **B2** | [B3](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Cb2b3%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [B4](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Cb2b4%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **E5** | [E6](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ce5e6%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **F3** | [E2](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Cf3e2%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E4](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Cf3e4%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [F2](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Cf3f2%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G2](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Cf3g2%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G3](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Cf3g3%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **H4** | [B4](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch4b4%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C4](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch4c4%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D4](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch4d4%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E4](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch4e4%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [F4](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch4f4%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G4](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch4g4%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H1](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch4h1%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H2](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch4h2%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H3](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch4h3%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H5](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch4h5%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
-| **H8** | [F7](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch8f7%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G6](https://github.com/anastasiakaldi/anastasiakaldi/issues/new?title=chess%7Cmove%7Ch8g6%7C28562&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) 
-<!--
-**AnastasiaKaldi/AnastasiaKaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
------
 
 <!-- Github top languages -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaKaldi&show_icons=true&locale=en&layout=compact&bg_color=30,746AB0,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=445)](https://github.com/AnastasiaKaldi/)
 	
-<h4 align="left"><b> Im sorry in advance for my sense of houmor </b>
+<h3 align="left"><b> Im sorry in advance for my sense of houmor </b></h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-	
-## <b> Let's have a chat! ☕️ 
+
+
+## <h3 align="left"><b> Let's have a chat! ☕️ </h3>
 <br>
 <div align='left'>
 	
@@ -84,5 +73,21 @@ Here are some ideas to get you started:
 </li>
 
 <br>
+	
+<li>
+<a href="https://www.instagram.com/natashakaldi_/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram:  @natashakaldi_-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+	
+<li>
+<a href="mailto:kaldianastasia@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Anastasia Kaldi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
 
 -----
