@@ -56,7 +56,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaKaldi&show_icons=true&locale=en&layout=compact&bg_color=30,746AB0,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=445)](https://github.com/AnastasiaKaldi/)
 	
-<h3 align="left"><b> Im sorry in advance for my sense of houmor </b></h3>
+<h2 align="left"><b> Im sorry in advance for my sense of humor </b></h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 
