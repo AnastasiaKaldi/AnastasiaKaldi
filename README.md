@@ -31,6 +31,7 @@
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white")
+    ![Next JS](https://img.shields.io/badge/Next--JS-purple?style=flat-square&logo=npm&logoColor=205%2C%20154%2C%20227&color=%23cd9ae3)
 
 - **Frameworks**:
 
