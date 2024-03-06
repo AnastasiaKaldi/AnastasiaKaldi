@@ -32,6 +32,9 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white")
     ![Next JS](https://img.shields.io/badge/Next--JS-yellow?style=for-the-badge&logo=npm&color=%23cd9ae3)
+    ![React JS](https://img.shields.io/badge/React--JS-yellow?style=for-the-badge&logo=npm&color=%23c2b755)
+    ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&color=%23558dc2)
+    ![HTML 5](https://img.shields.io/badge/HTML-red?style=for-the-badge&color=%23c25560)
 
 - **Frameworks**:
 
