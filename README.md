@@ -21,8 +21,6 @@
 🪴 Currently open for internships and placements in data science or web development
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 	
 ## <img src="https://media.giphy.com/media/CWcVFnvebhm92nFjMP/giphy.gif" width ="25"><b> Skills</b>
 <br>
