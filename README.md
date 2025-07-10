@@ -11,14 +11,14 @@
 <br>
 <h2 align="left"><img src="https://media.giphy.com/media/26DN2hUeMwRd2P1o4/giphy.gif" width= "35"><b>About me</b></h2>
 
-🖥️ Im a self-taught developer and musician. Currently working on a bakery management system.
+🖥️ Im a self-taught developer and musician. Most recently worked on an event platform for Tech Returners
 
 🌸Pronouns: She/Her
 	
 📀 Hobbies: music production, composition, vocals and keyboard
 
 	
-🪴 Currently open for internships and placements in data science or web development
+🪴 Currently working for Counter
 
 
 	
