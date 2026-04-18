@@ -1,5 +1,12 @@
 
-<h1 align="center"><b> Hi there Im Anastasia Kaldi! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<picture> <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width = 250px></picture>
+
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=904e95&width=600&lines=Hi!+I'm+Anastasia...;...but+you+can+call+me+Natasha+%F0%9F%8C%B8" alt="Typing SVG" />
+</h1>
+
+<h2 align="left"><img src="https://media.giphy.com/media/26DN2hUeMwRd2P1o4/giphy.gif" width="35"><b> About me</b></h2>
 
 <p align="center">
 <picture> <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width = 250px></picture>
